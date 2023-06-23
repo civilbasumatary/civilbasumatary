@@ -18,6 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/civilbasumatar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="civilbasumatar1" height="30" width="40" /></a>
 <a href="https://fb.com/civil basumatary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="civil basumatary" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/civil-basumatary-787934240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="civil_basumatary" height="30" width="40" /></a>
 <a href="https://instagram.com/civil_basumatary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="civil_basumatary" height="30" width="40" /></a>
 </p>
 
